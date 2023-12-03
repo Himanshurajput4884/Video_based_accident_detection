@@ -1,5 +1,5 @@
 train: Dataset/train/vehicles
 val: Dataset/validation/vehicles
 
-nc: 0
+nc: 1
 names: ['vehicle']
